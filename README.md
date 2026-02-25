@@ -18,6 +18,15 @@ Each chapter focuses on practical applications of transformer-based models, impl
 - Transfer learning with pretrained models
 - Model evaluation and inference
 
+## ⚙️ Execution Environment
+
+- Lightweight experiments and code exploration are done locally.
+- Model training and fine-tuning are executed using GPU-enabled environments such as:
+  - Google Colab
+  - Kaggle Notebooks
+
+This ensures efficient training of transformer models without local hardware limitations.  
+
 ## 🎯 Goal
 To build a strong practical understanding of modern NLP using transformers by combining theory with hands-on experimentation.
 
